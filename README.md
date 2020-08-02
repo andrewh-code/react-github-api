@@ -1,4 +1,5 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This is a front end React web application that utilizes the public GitHub API to allow the user to search for GitHub users and dispaly their profile information including their location, profile description, profile pic, and as well as listing their top 5 most recent public repos.
+
 
 ## Available Scripts
 
